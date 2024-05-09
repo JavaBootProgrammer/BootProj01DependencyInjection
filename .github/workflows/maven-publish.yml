@@ -1,4 +1,4 @@
-name: hello-world
+name: Running from GitHub
 on: push
 jobs:
   my-job:
