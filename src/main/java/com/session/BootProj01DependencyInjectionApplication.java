@@ -1,6 +1,5 @@
-package com.nt;
+package com.session;
 
-import java.io.PrintStream;
 import java.time.LocalDate;
 
 import org.springframework.boot.SpringApplication;
@@ -9,7 +8,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.Bean;
 
-import com.nt.sbeans.SeasonFinder;
+import com.session.sbeans.SeasonFinder;
 
 @SpringBootApplication
 

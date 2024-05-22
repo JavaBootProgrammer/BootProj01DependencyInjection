@@ -1,5 +1,5 @@
 
-package com.nt.sbeans;
+package com.session.sbeans;
 
 import java.time.LocalDate;
 
